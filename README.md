@@ -2,15 +2,17 @@ Play Syncers @ syncers.io or on PC @ https://store.steampowered.com/app/3732050/
 
 TODO: Update Readme to .pdf
 
-├── Syncers_Public                # The game
-│   ├── Game Code
-│   └── API-Interacting Code
-├── Syncers_Blazer_Public         # WebGL Client Access to the game
-│   └── Syncers Website           
-├── Syncers_Leaderboard_Public    # API of a leaderboard tracking player kills
-│   └── Leaderboard API
-└── Syncers_ServerHub_Public      # API for displaying servers from Edgegap and/or DIY hosted servers
-    └── Server API
+Syncers code map
+
+- Syncers Public                # the game
+    - Game Code
+    - API-Interacting Code
+- Syncers_Blazer_Public         # WebGL Client Access to the game
+    - Syncers Website
+- Syncers_Leaderboard_Public    # API of a leaderboard tracking player kills
+    - Leaderboard API
+- Syncers_ServerHub_Public      # API for displaying servers from Edgegap and/or DIY hosted servers
+    - Server API
 
 
 Syncers is a 3 year coding/game-dev project where Dylan Kontos, learnt the fundamentals of:
