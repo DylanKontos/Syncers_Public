@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 05dc8be98aa2ff847a0a3c547ba6533a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _addedNetworkObject: {instanceID: 0}
+  - _networkObjectCache: {instanceID: 0}
+  - cannonRight: {instanceID: 0}
+  - cannonLeft: {instanceID: 0}
+  - topEngineThrusterFX: {fileID: 198467570927784966, guid: 5159d82374dcdcb48ad36669eb271bbd, type: 3}
+  - bottomEngineThrusterFX: {fileID: 198467570927784966, guid: 5159d82374dcdcb48ad36669eb271bbd, type: 3}
+  - playerWarpDriveFX: {fileID: 198619982573094870, guid: 19b60493f7f49b6409370519581f5ce3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,31 @@
+{
+  "version": "1.5",
+  "max_deployment_retry_count": 3,
+  "profiles": {
+    "simple-example": {
+      "application": {
+        "name": "syncers",
+        "version": "1.5"
+      },
+      "rules": {
+        "initial": {
+          "match_size": {
+            "type": "player_count",
+            "attributes": {
+              "team_count": 1,
+              "team_size": 1
+            }
+          },
+          "beacons": {
+            "type": "latencies",
+            "attributes": {
+              "difference": 50,
+              "max_latency": 250
+            }
+          }
+        },
+        "expansions": {}
+      }
+    }
+  }
+}

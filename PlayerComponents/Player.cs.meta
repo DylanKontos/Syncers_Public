@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 14757bb9510afac42af8b949253bb6c2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _addedNetworkObject: {instanceID: 0}
+  - _networkObjectCache: {instanceID: 0}
+  - blueShipPrefab: {fileID: 4540754187138087455, guid: e09e54e6283cece4690744e42f5e053f, type: 3}
+  - redShipPrefab: {fileID: 4540754187138087455, guid: adbe92fc670f46445878c799e261b14e, type: 3}
+  - spectatorPrefab: {fileID: 4540754187138087455, guid: 547fd79a41c9f3b40a7ccd4afc3c29fe, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
