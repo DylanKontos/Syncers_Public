@@ -1,4 +1,4 @@
-Play Syncers @ syncers.io or on PC @ https://store.steampowered.com/app/3732050/Syncers/
+Play Syncers @ https://syncers.io or on PC @ https://store.steampowered.com/app/3732050/Syncers/
 
 // Syncers MAP // 
 - Syncers Public                // the game
