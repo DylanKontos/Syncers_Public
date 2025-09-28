@@ -1,17 +1,14 @@
 Play Syncers @ syncers.io or on PC @ https://store.steampowered.com/app/3732050/Syncers/
 
-TODO: Update Readme to .pdf
-
-Syncers code map
-
-- Syncers Public                # the game
+// Syncers MAP // 
+- Syncers Public                // the game
     - Game Code
     - API-Interacting Code
-- Syncers_Blazer_Public         # WebGL Client Access to the game
+- Syncers_Blazer_Public         // WebGL Client Access to the game
     - Syncers Website
-- Syncers_Leaderboard_Public    # API of a leaderboard tracking player kills
+- Syncers_Leaderboard_Public    // API of a leaderboard tracking player kills
     - Leaderboard API
-- Syncers_ServerHub_Public      # API for displaying servers from Edgegap and/or DIY hosted servers
+- Syncers_ServerHub_Public      // API for displaying servers from Edgegap and/or DIY hosted servers
     - Server API
 
 
